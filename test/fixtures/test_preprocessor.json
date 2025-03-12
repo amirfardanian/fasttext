@@ -1,0 +1,8 @@
+{
+  "transformations": [
+    "StatelessTransformation(function=lower)",
+    "StatelessTransformation(function=replace, regex_pattern='old', replacement='new')"
+  ],
+  "pp_hash": "a50ad6e3d67447e140d97c471ca320ee47c5b18c",
+  "pp_name": "test_preprocessor"
+}

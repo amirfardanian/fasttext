@@ -1,0 +1,10 @@
+{
+  "output_names": [],
+  "storage_dir": ".",
+  "model_name": "fasttext_trained_model",
+  "input_names": [],
+  "class_name": "FasttextClassifierModel",
+  "init_datetime": "2017-11-26 18:43:50",
+  "internal_model_filepath": "fasttext_trained_model.bin",
+  "model_hash": null
+}

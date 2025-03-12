@@ -1,0 +1,7 @@
+__label__1  cow
+__label__1  chicken
+__label__2  house
+__label__2  apartment
+__label__1  dog
+__label__3  ocean
+__label__2  flat

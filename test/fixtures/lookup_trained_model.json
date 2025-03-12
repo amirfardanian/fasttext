@@ -1,0 +1,10 @@
+{
+  "model_hash": null,
+  "look_up_csv_filename": "lookup_training.csv",
+  "class_name": "LookUpClassifierModel",
+  "output_names": ["label"],
+  "model_name": "test_model",
+  "init_datetime": "2018-02-24 13:51:49",
+  "storage_dir": "",
+  "input_names": ["words"]
+}

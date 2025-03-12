@@ -1,0 +1,7 @@
+1  cow
+1  chicken
+2  house
+2  apartment
+1  dog
+3  ocean
+2  flat
